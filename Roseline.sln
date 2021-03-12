@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roseline", "RoselineTest\Roseline.csproj", "{5078F874-73A6-40DC-8ABD-73FF377F563E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoselineScript", "RoselineScript\RoselineScript.csproj", "{5078F874-73A6-40DC-8ABD-73FF377F563E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoselineCompile", "RoselineCompile\RoselineCompile.csproj", "{6078F874-73A6-40DC-8ABD-73FF377F563E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{B4CB00EC-590E-4958-9AAA-CB3D7A2AD852}"
 EndProject
@@ -19,6 +21,10 @@ Global
 		{5078F874-73A6-40DC-8ABD-73FF377F563E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5078F874-73A6-40DC-8ABD-73FF377F563E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5078F874-73A6-40DC-8ABD-73FF377F563E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6078F874-73A6-40DC-8ABD-73FF377F563E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6078F874-73A6-40DC-8ABD-73FF377F563E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6078F874-73A6-40DC-8ABD-73FF377F563E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6078F874-73A6-40DC-8ABD-73FF377F563E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B4CB00EC-590E-4958-9AAA-CB3D7A2AD852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B4CB00EC-590E-4958-9AAA-CB3D7A2AD852}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4CB00EC-590E-4958-9AAA-CB3D7A2AD852}.Release|Any CPU.ActiveCfg = Release|Any CPU
